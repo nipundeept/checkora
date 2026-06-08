@@ -55,7 +55,6 @@ Join our Discord community for updates, support, and games: https://discord.gg/D
 ## Contributors
 
 <!-- CONTRIBUTORS_START -->
-
 <!-- CONTRIBUTORS_END -->
 
 ## Features
